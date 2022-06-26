@@ -1,0 +1,33 @@
+2022-06-12 19:26:49  - root - INFO -train_upp:  
+        Train | Valid
+Epoch |  Loss |  Loss | Time, m
+
+2022-06-12 19:27:36  - root - INFO -train_upp:  
+        Train | Valid
+Epoch |  Loss |  Loss | Time, m
+
+2022-06-24 12:33:25  - root - INFO -train_upp:  
+        Train | Valid
+Epoch |  Loss |  Loss | Time, m
+
+2022-06-24 12:42:33  - root - INFO -train_upp:  
+        Train | Valid
+Epoch |  Loss |  Loss | Time, m
+
+2022-06-24 12:48:45  - root - INFO -train_upp:  
+        Train | Valid
+Epoch |  Loss |  Loss | Time, m
+
+2022-06-24 12:48:56  - root - INFO -train_upp:  
+        Train | Valid
+Epoch |  Loss |  Loss | Time, m
+
+2022-06-24 12:51:32  - root - INFO -train_upp:  
+            Train | Valid
+    Epoch |  Loss |  Loss | Time, m
+    
+2022-06-24 12:53:48  - root - INFO -train_upp:  
+            Train | Valid
+    Epoch |  Loss |  Loss | Time, m
+    
+2022-06-24 14:43:08  - root - INFO -train_upp:       1│ 0.2118│ 0.1667│109.31
